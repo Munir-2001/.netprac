@@ -1,4 +1,3 @@
 # .netprac
-
-##PRACTICE WITH .NET
-
+#PRACTICE WITH .NET
+#.net 6.0
